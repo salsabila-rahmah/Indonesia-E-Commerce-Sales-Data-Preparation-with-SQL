@@ -1,0 +1,419 @@
+province,province_new,city,city_new
+BALI,Bali,KAB. ACEH BARAT,Aceh Barat
+BANGKA BELITUNG,Bangka Belitung,KAB. ACEH BARAT DAYA,Aceh Barat Daya
+BANTEN,Banten,KAB. ACEH BESAR,Aceh Besar
+BENGKULU,Bengkulu,KAB. ACEH JAYA,Aceh Jaya
+DI YOGYAKARTA,Daerah Istimewa Yogyakarta,KAB. ACEH SELATAN,Aceh Selatan
+DKI JAKARTA,DKI Jakarta,KAB. ACEH SINGKIL,Aceh Singkil
+GORONTALO,Gorontalo,KAB. ACEH TAMIANG,Aceh Tamiang
+JAMBI,Jambi,KAB. ACEH TENGAH,Aceh Tengah
+JAWA BARAT,Jawa Barat,KAB. ACEH TIMUR,Aceh Timur
+JAWA TENGAH,Jawa Tengah,KAB. ACEH UTARA,Aceh Utara
+JAWA TIMUR,Jawa Timur,KAB. AGAM,Agam
+KALIMANTAN BARAT,Kalimantan Barat,KAB. ASAHAN,Asahan
+KALIMANTAN SELATAN,Kalimantan Selatan,KAB. BADUNG,Badung
+KALIMANTAN TENGAH,Kalimantan Tengah,KAB. BALANGAN,Balangan
+KALIMANTAN TIMUR,Kalimantan Timur,KAB. BANDUNG,Bandung
+KALIMANTAN UTARA,Kalimantan Utara,KAB. BANDUNG BARAT,Bandung Barat
+KEPULAUAN RIAU,Kepulauan Riau,KAB. BANGGAI,Banggai
+LAMPUNG,Lampung,KAB. BANGGAI LAUT,Banggai Laut
+MALUKU,Maluku,KAB. BANGKA,Bangka
+MALUKU UTARA,Maluku Utara,KAB. BANGKA BARAT,Bangka Barat
+NANGGROE ACEH DARUSSALAM (NAD),Nanggroe Aceh Darussalam,KAB. BANGKA SELATAN,Bangka Selatan
+NUSA TENGGARA BARAT (NTB),Nusa Tenggara Barat,KAB. BANGKA TENGAH,Bangka Tengah
+NUSA TENGGARA TIMUR (NTT),Nusa Tenggara Timur,KAB. BANGKALAN,Bangkalan
+PAPUA,Papua,KAB. BANGLI,Bangli
+PAPUA BARAT,Papua Barat,KAB. BANJAR,Banjar
+RIAU,Riau,KAB. BANJARNEGARA,Banjarnegara
+SULAWESI BARAT,Sulawesi Barat,KAB. BANTAENG,Bantaeng
+SULAWESI SELATAN,Sulawesi Selatan,KAB. BANTUL,Bantul
+SULAWESI TENGAH,Sulawesi Tengah,KAB. BANYUASIN,Banyuasin
+SULAWESI TENGGARA,Sulawesi Tenggara,KAB. BANYUMAS,Banyumas
+SULAWESI UTARA,Sulawesi Utara,KAB. BANYUWANGI,Banyuwangi
+SUMATERA BARAT,Sumatera Barat,KAB. BARITO KUALA,Barito Kuala
+SUMATERA SELATAN,Sumatera Selatan,KAB. BARITO SELATAN,Barito Selatan
+SUMATERA UTARA,Sumatera Utara,KAB. BARITO TIMUR,Barito Timur
+,,KAB. BARITO UTARA,Barito Utara
+,,KAB. BARRU,Barru
+,,KAB. BATANG,Batang
+,,KAB. BATANG HARI,Batanghari
+,,KAB. BATU BARA,Batubara
+,,KAB. BEKASI,Bekasi
+,,KAB. BELITUNG,Belitung
+,,KAB. BELITUNG TIMUR,Belitung Timur
+,,KAB. BENER MERIAH,Bener Meriah
+,,KAB. BENGKALIS,Bengkalis
+,,KAB. BENGKAYANG,Bengkayang
+,,KAB. BENGKULU SELATAN,Bengkulu Selatan
+,,KAB. BENGKULU UTARA,Bengkulu Utara
+,,KAB. BERAU,Berau
+,,KAB. BIMA,Bima
+,,KAB. BINTAN,Bintan
+,,KAB. BIREUEN,Bireuen
+,,KAB. BLITAR,Blitar
+,,KAB. BLORA,Blora
+,,KAB. BOALEMO,Boalemo
+,,KAB. BOGOR,Bogor
+,,KAB. BOJONEGORO,Bojonegoro
+,,KAB. BOLAANG MONGONDOW (BOLMONG),Bolaang Mongondow
+,,KAB. BOLAANG MONGONDOW SELATAN,Bolaang Mongondow Selatan
+,,KAB. BOLAANG MONGONDOW TIMUR,Bolaang Mongondow Timur
+,,KAB. BOLAANG MONGONDOW UTARA,Bolaang Mongondow Utara
+,,KAB. BONDOWOSO,Bondowoso
+,,KAB. BONE,Bone
+,,KAB. BONE BOLANGO,Bone Bolango
+,,KAB. BOYOLALI,Boyolali
+,,KAB. BREBES,Brebes
+,,KAB. BULELENG,Buleleng
+,,KAB. BULUKUMBA,Bulukumba
+,,KAB. BULUNGAN (BULONGAN),Bulungan
+,,KAB. BUNGO,Bungo
+,,KAB. BUOL,Buol
+,,KAB. CIAMIS,Ciamis
+,,KAB. CIANJUR,Cianjur
+,,KAB. CILACAP,Cilacap
+,,KAB. CIREBON,Cirebon
+,,KAB. DAIRI,Dairi
+,,KAB. DELI SERDANG,Deli Serdang
+,,KAB. DEMAK,Demak
+,,KAB. DHARMASRAYA,Dharmasraya
+,,KAB. DOMPU,Dompu
+,,KAB. DONGGALA,Donggala
+,,KAB. EMPAT LAWANG,Empat Lawang
+,,KAB. ENDE,Ende
+,,KAB. ENREKANG,Enrekang
+,,KAB. GARUT,Garut
+,,KAB. GAYO LUES,Gayo Lues
+,,KAB. GIANYAR,Gianyar
+,,KAB. GORONTALO,Gorontalo
+,,KAB. GORONTALO UTARA,Gorontalo Utara
+,,KAB. GOWA,Gowa
+,,KAB. GRESIK,Gresik
+,,KAB. GROBOGAN,Grobogan
+,,KAB. GUNUNG KIDUL,Gunungkidul
+,,KAB. GUNUNG MAS,Gunung Mas
+,,KAB. HALMAHERA TENGAH,Halmahera Tengah
+,,KAB. HALMAHERA TIMUR,Halmahera Timur
+,,KAB. HALMAHERA UTARA,Halmahera Utara
+,,KAB. HULU SUNGAI SELATAN,Hulu Sungai Selatan
+,,KAB. HULU SUNGAI TENGAH,Hulu Sungai Tengah
+,,KAB. HULU SUNGAI UTARA,Hulu Sungai Utara
+,,KAB. HUMBANG HASUNDUTAN,Humbang Hasundutan
+,,KAB. INDRAGIRI HILIR,Indragiri Hilir
+,,KAB. INDRAGIRI HULU,Indragiri Hulu
+,,KAB. INDRAMAYU,Indramayu
+,,KAB. JAYAWIJAYA,Jayawijaya
+,,KAB. JEMBER,Jember
+,,KAB. JEMBRANA,Jembrana
+,,KAB. JENEPONTO,Jeneponto
+,,KAB. JEPARA,Jepara
+,,KAB. JOMBANG,Jombang
+,,KAB. KAMPAR,Kampar
+,,KAB. KAPUAS,Kapuas
+,,KAB. KAPUAS HULU,Kapuas Hulu
+,,KAB. KARANGANYAR,Karanganyar
+,,KAB. KARANGASEM,Karangasem
+,,KAB. KARAWANG,Karawang
+,,KAB. KARIMUN,Karimun
+,,KAB. KARO,Karo
+,,KAB. KATINGAN,Katingan
+,,KAB. KAUR,Kaur
+,,KAB. KAYONG UTARA,Kayong Utara
+,,KAB. KEBUMEN,Kebumen
+,,KAB. KEDIRI,Kediri
+,,KAB. KENDAL,Kendal
+,,KAB. KEPAHIANG,Kepahiang
+,,KAB. KEPULAUAN ANAMBAS,Kepulauan Anambas
+,,KAB. KEPULAUAN MENTAWAI,Kepulauan Mentawai
+,,KAB. KEPULAUAN MERANTI,Kepulauan Meranti
+,,KAB. KEPULAUAN SERIBU,Kepulauan Seribu
+,,KAB. KEPULAUAN SIAU TAGULANDANG BIARO (SITARO),Kepulauan Siau Tagulandang Biaro
+,,KAB. KEPULAUAN TALAUD,Kepulauan Talaud
+,,KAB. KERINCI,Kerinci
+,,KAB. KETAPANG,Ketapang
+,,KAB. KLATEN,Klaten
+,,KAB. KLUNGKUNG,Klungkung
+,,KAB. KOLAKA,Kolaka
+,,KAB. KOLAKA TIMUR,Kolaka Timur
+,,KAB. KOLAKA UTARA,Kolaka Utara
+,,KAB. KONAWE SELATAN,Konawe Selatan
+,,KAB. KONAWE UTARA,Konawe Utara
+,,KAB. KOTA BARU,Kotabaru
+,,KAB. KOTA WARINGIN BARAT,Kotawaringin Barat
+,,KAB. KOTA WARINGIN TIMUR,Kotawaringin Timur
+,,KAB. KUANTAN SINGINGI,Kuantan Singingi
+,,KAB. KUBU RAYA,Kubu Raya
+,,KAB. KUDUS,Kudus
+,,KAB. KULON PROGO,Kulon Progo
+,,KAB. KUNINGAN,Kuningan
+,,KAB. KUPANG,Kupang
+,,KAB. KUTAI BARAT,Kutai Barat
+,,KAB. KUTAI KARTANEGARA,Kutai Kartanegara
+,,KAB. KUTAI TIMUR,Kutai Timur
+,,KAB. LABUHAN BATU,Labuhanbatu
+,,KAB. LABUHAN BATU SELATAN,Labuhanbatu Selatan
+,,KAB. LABUHAN BATU UTARA,Labuhanbatu Utara
+,,KAB. LAHAT,Lahat
+,,KAB. LAMANDAU,Lamandau
+,,KAB. LAMONGAN,Lamongan
+,,KAB. LAMPUNG BARAT,Lampung Barat
+,,KAB. LAMPUNG SELATAN,Lampung Selatan
+,,KAB. LAMPUNG TENGAH,Lampung Tengah
+,,KAB. LAMPUNG TIMUR,Lampung Timur
+,,KAB. LAMPUNG UTARA,Lampung Utara
+,,KAB. LANDAK,Landak
+,,KAB. LANGKAT,Langkat
+,,KAB. LEBAK,Lebak
+,,KAB. LEBONG,Lebong
+,,KAB. LIMA PULUH KOTO/KOTA,Lima Puluh Kota
+,,KAB. LINGGA,Lingga
+,,KAB. LOMBOK BARAT,Lombok Barat
+,,KAB. LOMBOK TENGAH,Lombok Tengah
+,,KAB. LOMBOK TIMUR,Lombok Timur
+,,KAB. LOMBOK UTARA,Lombok Utara
+,,KAB. LUMAJANG,Lumajang
+,,KAB. LUWU,Luwu
+,,KAB. LUWU TIMUR,Luwu Timur
+,,KAB. LUWU UTARA,Luwu Utara
+,,KAB. MADIUN,Madiun
+,,KAB. MAGELANG,Magelang
+,,KAB. MAGETAN,Magetan
+,,KAB. MAHAKAM ULU,Mahakam Ulu
+,,KAB. MAJALENGKA,Majalengka
+,,KAB. MAJENE,Majene
+,,KAB. MALAKA,Malaka
+,,KAB. MALANG,Malang
+,,KAB. MAMASA,Mamasa
+,,KAB. MAMUJU,Mamuju
+,,KAB. MAMUJU TENGAH,Mamuju Tengah
+,,KAB. MAMUJU UTARA,Mamuju Utara
+,,KAB. MANDAILING NATAL,Mandailing Natal
+,,KAB. MANGGARAI BARAT,Manggarai Barat
+,,KAB. MAROS,Maros
+,,KAB. MELAWI,Melawi
+,,KAB. MERANGIN,Merangin
+,,KAB. MESUJI,Mesuji
+,,KAB. MINAHASA,Minahasa
+,,KAB. MINAHASA SELATAN,Minahasa Selatan
+,,KAB. MINAHASA TENGGARA,Minahasa Tenggara
+,,KAB. MINAHASA UTARA,Minahasa Utara
+,,KAB. MOJOKERTO,Mojokerto
+,,KAB. MOROWALI,Morowali
+,,KAB. MOROWALI UTARA,Morowali Utara
+,,KAB. MUARA ENIM,Muara Enim
+,,KAB. MUARO JAMBI,Muaro Jambi
+,,KAB. MUKO MUKO,Mukomuko
+,,KAB. MUNA,Muna
+,,KAB. MURUNG RAYA,Murung Raya
+,,KAB. MUSI BANYUASIN,Musi Banyuasin
+,,KAB. MUSI RAWAS,Musi Rawas
+,,KAB. MUSI RAWAS UTARA,Musi Rawas Utara
+,,KAB. NAGAN RAYA,Nagan Raya
+,,KAB. NATUNA,Natuna
+,,KAB. NGADA,Ngada
+,,KAB. NGANJUK,Nganjuk
+,,KAB. NGAWI,Ngawi
+,,KAB. NIAS SELATAN,Nias Selatan
+,,KAB. NIAS UTARA,Nias Utara
+,,KAB. NUNUKAN,Nunukan
+,,KAB. OGAN ILIR,Ogan Ilir
+,,KAB. OGAN KOMERING ILIR,Ogan Komering Ilir
+,,KAB. OGAN KOMERING ULU,Ogan Komering Ulu
+,,KAB. OGAN KOMERING ULU SELATAN,Ogan Komering Ulu Selatan
+,,KAB. OGAN KOMERING ULU TIMUR,Ogan Komering Ulu Timur
+,,KAB. PACITAN,Pacitan
+,,KAB. PADANG LAWAS,Padang Lawas
+,,KAB. PADANG LAWAS UTARA,Padang Lawas Utara
+,,KAB. PADANG PARIAMAN,Padang Pariaman
+,,KAB. PAMEKASAN,Pamekasan
+,,KAB. PANDEGLANG,Pandeglang
+,,KAB. PANGANDARAN,Pangandaran
+,,KAB. PANGKAJENE KEPULAUAN,Pangkajene dan Kepulauan
+,,KAB. PARIGI MOUTONG,Parigi Moutong
+,,KAB. PASAMAN,Pasaman
+,,KAB. PASAMAN BARAT,Pasaman Barat
+,,KAB. PASER,Paser
+,,KAB. PASURUAN,Pasuruan
+,,KAB. PATI,Pati
+,,KAB. PEKALONGAN,Pekalongan
+,,KAB. PELALAWAN,Pelalawan
+,,KAB. PEMALANG,Pemalang
+,,KAB. PENAJAM PASER UTARA,Penajam Paser Utara
+,,KAB. PENUKAL ABAB LEMATANG ILIR,Penukal Abab Lematang Ilir
+,,KAB. PESAWARAN,Pesawaran
+,,KAB. PESISIR BARAT,Pesisir Barat
+,,KAB. PESISIR SELATAN,Pesisir Selatan
+,,KAB. PIDIE,Pidie
+,,KAB. PIDIE JAYA,Pidie Jaya
+,,KAB. PINRANG,Pinrang
+,,KAB. POHUWATO,Pohuwato
+,,KAB. POLEWALI MANDAR,Polewali Mandar
+,,KAB. PONOROGO,Ponorogo
+,,KAB. PONTIANAK,Pontianak
+,,KAB. POSO,Poso
+,,KAB. PRINGSEWU,Pringsewu
+,,KAB. PROBOLINGGO,Probolinggo
+,,KAB. PULANG PISAU,Pulang Pisau
+,,KAB. PURBALINGGA,Purbalingga
+,,KAB. PURWAKARTA,Purwakarta
+,,KAB. PURWOREJO,Purworejo
+,,KAB. REJANG LEBONG,Rejang Lebong
+,,KAB. REMBANG,Rembang
+,,KAB. ROKAN HILIR,Rokan Hilir
+,,KAB. ROKAN HULU,Rokan Hulu
+,,KAB. ROTE NDAO,Rote Ndao
+,,KAB. SAMBAS,Sambas
+,,KAB. SAMOSIR,Samosir
+,,KAB. SAMPANG,Sampang
+,,KAB. SANGGAU,Sanggau
+,,KAB. SAROLANGUN,Sarolangun
+,,KAB. SEKADAU,Sekadau
+,,KAB. SELUMA,Seluma
+,,KAB. SEMARANG,Semarang
+,,KAB. SERANG,Serang
+,,KAB. SERDANG BEDAGAI,Serdang Bedagai
+,,KAB. SERUYAN,Seruyan
+,,KAB. SIAK,Siak
+,,KAB. SIDENRENG RAPPANG/RAPANG,Sidenreng Rappang
+,,KAB. SIDOARJO,Sidoarjo
+,,KAB. SIJUNJUNG (SAWAH LUNTO SIJUNJUNG),Sijunjung
+,,KAB. SIMALUNGUN,Simalungun
+,,KAB. SIMEULUE,Simeulue
+,,KAB. SINJAI,Sinjai
+,,KAB. SINTANG,Sintang
+,,KAB. SITUBONDO,Situbondo
+,,KAB. SLEMAN,Sleman
+,,KAB. SOLOK,Solok
+,,KAB. SOLOK SELATAN,Solok Selatan
+,,KAB. SOPPENG,Soppeng
+,,KAB. SRAGEN,Sragen
+,,KAB. SUBANG,Subang
+,,KAB. SUKABUMI,Sukabumi
+,,KAB. SUKAMARA,Sukamara
+,,KAB. SUKOHARJO,Sukoharjo
+,,KAB. SUMBA BARAT,Sumba Barat
+,,KAB. SUMBA TIMUR,Sumba Timur
+,,KAB. SUMBAWA,Sumbawa
+,,KAB. SUMBAWA BARAT,Sumbawa Barat
+,,KAB. SUMEDANG,Sumedang
+,,KAB. SUMENEP,Sumenep
+,,KAB. TABALONG,Tabalong
+,,KAB. TABANAN,Tabanan
+,,KAB. TAKALAR,Takalar
+,,KAB. TANA TORAJA,Tana Toraja
+,,KAB. TANAH BUMBU,Tanah Bumbu
+,,KAB. TANAH DATAR,Tanah Datar
+,,KAB. TANAH LAUT,Tanah Laut
+,,KAB. TANGERANG,Tangerang
+,,KAB. TANGGAMUS,Tanggamus
+,,KAB. TANJUNG JABUNG BARAT,Tanjung Jabung Barat
+,,KAB. TANJUNG JABUNG TIMUR,Tanjung Jabung Timur
+,,KAB. TAPANULI SELATAN,Tapanuli Selatan
+,,KAB. TAPANULI TENGAH,Tapanuli Tengah
+,,KAB. TAPANULI UTARA,Tapanuli Utara
+,,KAB. TAPIN,Tapin
+,,KAB. TASIKMALAYA,Tasikmalaya
+,,KAB. TEBO,Tebo
+,,KAB. TEGAL,Tegal
+,,KAB. TEMANGGUNG,Temanggung
+,,KAB. TIMOR TENGAH UTARA,Timor Tengah Utara
+,,KAB. TOBA SAMOSIR,Toba Samosir
+,,KAB. TOJO UNA-UNA,Tojo Una-Una
+,,KAB. TOLI-TOLI,Toli-Toli
+,,KAB. TORAJA UTARA,Toraja Utara
+,,KAB. TRENGGALEK,Trenggalek
+,,KAB. TUBAN,Tuban
+,,KAB. TULANG BAWANG,Tulang Bawang
+,,KAB. TULANG BAWANG BARAT,Tulang Bawang Barat
+,,KAB. TULUNGAGUNG,Tulungagung
+,,KAB. WAJO,Wajo
+,,KAB. WAY KANAN,Way Kanan
+,,KAB. WONOGIRI,Wonogiri
+,,KAB. WONOSOBO,Wonosobo
+,,KOTA AMBON,Ambon
+,,KOTA BALIKPAPAN,Balikpapan
+,,KOTA BANDA ACEH,Banda Aceh
+,,KOTA BANDAR LAMPUNG,Bandar Lampung
+,,KOTA BANDUNG,Bandung
+,,KOTA BANJAR,Banjar
+,,KOTA BANJARBARU,Banjarbaru
+,,KOTA BANJARMASIN,Banjarmasin
+,,KOTA BATAM,Batam
+,,KOTA BATU,Batu
+,,KOTA BEKASI,Bekasi
+,,KOTA BENGKULU,Bengkulu
+,,KOTA BIMA,Bima
+,,KOTA BINJAI,Binjai
+,,KOTA BLITAR,Blitar
+,,KOTA BOGOR,Bogor
+,,KOTA BONTANG,Bontang
+,,KOTA BUKITTINGGI,Bukittinggi
+,,KOTA CILEGON,Cilegon
+,,KOTA CIMAHI,Cimahi
+,,KOTA CIREBON,Cirebon
+,,KOTA DENPASAR,Denpasar
+,,KOTA DEPOK,Depok
+,,KOTA DUMAI,Dumai
+,,KOTA GORONTALO,Gorontalo
+,,KOTA GUNUNGSITOLI,Gunungsitoli
+,,KOTA JAKARTA BARAT,Jakarta Barat
+,,KOTA JAKARTA PUSAT,Jakarta Pusat
+,,KOTA JAKARTA SELATAN,Jakarta Selatan
+,,KOTA JAKARTA TIMUR,Jakarta Timur
+,,KOTA JAKARTA UTARA,Jakarta Utara
+,,KOTA JAMBI,Jambi
+,,KOTA KEDIRI,Kediri
+,,KOTA KENDARI,Kendari
+,,KOTA KUPANG,Kupang
+,,KOTA LHOKSEUMAWE,Lhokseumawe
+,,KOTA LUBUK LINGGAU,Lubuklinggau
+,,KOTA MADIUN,Madiun
+,,KOTA MAGELANG,Magelang
+,,KOTA MAKASSAR,Makassar
+,,KOTA MALANG,Malang
+,,KOTA MANADO,Manado
+,,KOTA MATARAM,Mataram
+,,KOTA MEDAN,Medan
+,,KOTA METRO,Metro
+,,KOTA MOJOKERTO,Mojokerto
+,,KOTA PADANG,Padang
+,,KOTA PADANG SIDEMPUAN,Padangsidempuan
+,,KOTA PAGAR ALAM,Pagar Alam
+,,KOTA PALANGKA RAYA,Palangka Raya
+,,KOTA PALEMBANG,Palembang
+,,KOTA PALOPO,Palopo
+,,KOTA PALU,Palu
+,,KOTA PANGKAL PINANG,Pangkal Pinang
+,,KOTA PAREPARE,Parepare
+,,KOTA PARIAMAN,Pariaman
+,,KOTA PASURUAN,Pasuruan
+,,KOTA PAYAKUMBUH,Payakumbuh
+,,KOTA PEKALONGAN,Pekalongan
+,,KOTA PEKANBARU,Pekanbaru
+,,KOTA PEMATANG SIANTAR,Pematangsiantar
+,,KOTA PONTIANAK,Pontianak
+,,KOTA PRABUMULIH,Prabumulih
+,,KOTA PROBOLINGGO,Probolinggo
+,,KOTA SABANG,Sabang
+,,KOTA SALATIGA,Salatiga
+,,KOTA SAMARINDA,Samarinda
+,,KOTA SAWAH LUNTO,Sawahlunto
+,,KOTA SEMARANG,Semarang
+,,KOTA SERANG,Serang
+,,KOTA SIBOLGA,Sibolga
+,,KOTA SINGKAWANG,Singkawang
+,,KOTA SOLOK,Solok
+,,KOTA SORONG,Sorong
+,,KOTA SUKABUMI,Sukabumi
+,,KOTA SUNGAIPENUH,Sungai Penuh
+,,KOTA SURABAYA,Surabaya
+,,KOTA SURAKARTA (SOLO),Surakarta
+,,KOTA TANGERANG,Tangerang
+,,KOTA TANGERANG SELATAN,Tangerang Selatan
+,,KOTA TANJUNG PINANG,Tanjung Pinang
+,,KOTA TARAKAN,Tarakan
+,,KOTA TASIKMALAYA,Tasikmalaya
+,,KOTA TEBING TINGGI,Tebing Tinggi
+,,KOTA TEGAL,Tegal
+,,KOTA TERNATE,Ternate
+,,KOTA YOGYAKARTA,Yogyakarta

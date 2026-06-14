@@ -1,0 +1,46 @@
+ship_method,ship_method_new,shipping_carrier,shipping_category
+Kargo,Cargo,Unknown,Cargo
+Hemat Kargo,Economy,Unknown,Economy
+Gosend Instant,GoSend Instant,GoSend,Instant
+GoSend Instant (Versi Lama),GoSend Instant,GoSend,Instant
+Instant (Versi Lama)-GoSend Instant (Versi Lama),GoSend Instant,GoSend,Instant
+GoSend Instant Prioritas,GoSend Instant Prioritas,GoSend,Instant
+GoSend Same Day,GoSend Same Day,GoSend,Same Day
+Same Day-GoSend Same Day,GoSend Same Day,GoSend,Same Day
+GrabExpress Instant,GrabExpress Instant,GrabExpress,Instant
+GrabExpress Instant (Versi Lama),GrabExpress Instant,GrabExpress,Instant
+Instant (Versi Lama)-GrabExpress Instant (Versi Lama),GrabExpress Instant,GrabExpress,Instant
+GrabExpress Sameday,GrabExpress Same Day,GrabExpress,Same Day
+Instant,Instant,Unknown,Instant
+Instant (Versi Lama),Instant,Unknown,Instant
+Hemat Kargo-J&T Cargo,J&T Cargo,J&T,Cargo
+J&T Cargo,J&T Cargo,J&T,Cargo
+Kargo-J&T Cargo,J&T Cargo,J&T,Cargo
+Hemat Kargo-J&T Economy,J&T Economy,J&T,Economy
+J&T Economy,J&T Economy,J&T,Economy
+J&T Express,J&T Express,J&T,Regular
+Reguler (Cashless)-J&T Express,J&T Express,J&T,Regular
+JNE Reguler,JNE Reguler,JNE,Regular
+Reguler (Cashless)-JNE Reguler,JNE Reguler,JNE,Regular
+Hemat Kargo-JNE Trucking (JTR),JNE Trucking,JNE,Cargo
+JNE Trucking (JTR),JNE Trucking,JNE,Cargo
+Kargo-JNE Trucking (JTR),JNE Trucking,JNE,Cargo
+JNE YES,JNE YES,JNE,Next Day
+Next Day-JNE YES,JNE YES,JNE,Next Day
+Next Day,Next Day,Unknown,Next Day
+Reguler (Cashless),Reguler,Unknown,Regular
+Same Day,Same Day,Unknown,Same Day
+Agen SPX Express,SPX Express,SPX,Regular
+SPX Express Point,SPX Express,SPX,Regular
+Hemat Kargo-SPX Hemat,SPX Hemat,SPX,Economy
+SPX Hemat,SPX Hemat,SPX,Economy
+Instant (Versi Lama)-SPX Instant (Versi Lama),SPX Instant,SPX,Instant
+Instant-SPX Instant,SPX Instant,SPX,Instant
+SPX Instant,SPX Instant,SPX,Instant
+SPX Instant (Versi Lama),SPX Instant,SPX,Instant
+Instant Prioritas-SPX Instant Prioritas,SPX Instant Prioritas,SPX,Instant
+SPX Instant Prioritas,SPX Instant Prioritas,SPX,Instant
+Same Day-SPX Sameday,SPX Same Day,SPX,Same Day
+SPX Sameday,SPX Same Day,SPX,Same Day
+Reguler (Cashless)-SPX Standard,SPX Standard,SPX,Regular
+SPX Standard,SPX Standard,SPX,Regular

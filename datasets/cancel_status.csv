@@ -1,0 +1,20 @@
+cancel_id,cancel_by,reason,cancel_reason
+CS1,Pembeli,Lainnya,Dibatalkan oleh Pembeli. Alasan: Lainnya
+CS2,Pembeli,Berubah pikiran,Dibatalkan oleh Pembeli. Alasan: Lainnya/ berubah pikiran
+CS3,Pembeli,Menemukan yang lebih murah,Dibatalkan oleh Pembeli. Alasan: Menemukan yang lebih murah
+CS4,Pembeli,Need to change delivery address,Dibatalkan oleh Pembeli. Alasan: Need to change delivery address
+CS5,Pembeli,Penjual tidak responsif terhadap pertanyaan Pembeli,Dibatalkan oleh Pembeli. Alasan: Penjual tidak responsif terhadap pertanyaan Pembeli
+CS6,Pembeli,Perlu mengubah alamat pengiriman,Dibatalkan oleh Pembeli. Alasan: Perlu mengubah alamat pengiriman
+CS7,Pembeli,Perlu mengubah pesanan,Dibatalkan oleh Pembeli. Alasan: Perlu mengubah pesanan
+CS8,Pembeli,Perlu mengubah Voucher,Dibatalkan oleh Pembeli. Alasan: Perlu mengubah Voucher
+CS9,Pembeli,Proses pembayaran sulit,Dibatalkan oleh Pembeli. Alasan: Proses pembayaran sulit
+CS10,Pembeli,Tidak ingin membeli lagi,Dibatalkan oleh Pembeli. Alasan: Tidak ingin membeli lagi
+CS11,Pembeli,Ubah Pesanan yang Ada,Dibatalkan oleh Pembeli. Alasan: Ubah Pesanan yang Ada
+CS12,Penjual,Produk habis,Dibatalkan oleh Penjual. Alasan: Produk habis
+CS13,Sistem,Lainnya,Dibatalkan secara otomatis oleh sistem. Alasan: Lainnya
+CS14,Sistem,Paket hilang di perjalanan,Dibatalkan secara otomatis oleh sistem. Alasan: Paket hilang di perjalanan. Kompensasi yang memenuhi syarat telah dikreditkan ke Saldo Penjual-mu.
+CS15,Sistem,Pengiriman gagal,Dibatalkan secara otomatis oleh sistem. Alasan: Pengiriman gagal
+CS16,Sistem,Penjual gagal mengirimkan pesanan tepat waktu,Dibatalkan secara otomatis oleh sistem. Alasan: Penjual gagal mengirimkan pesanan tepat waktu
+CS17,Sistem,Penjual tidak mengatur pengiriman tepat waktu,Dibatalkan secara otomatis oleh sistem. Alasan: Penjual tidak mengatur pengiriman tepat waktu
+CS18,Sistem,Pesanan belum dibayar,Dibatalkan secara otomatis oleh sistem. Alasan: Pesanan belum dibayar
+CS19,Tidak Dibatalkan,Tidak Dibatalkan,Tidak dibatalkan

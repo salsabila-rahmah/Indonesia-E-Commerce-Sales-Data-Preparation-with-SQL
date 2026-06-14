@@ -1,0 +1,20 @@
+pay_method,pay_method_new,payment_category
+BCA OneKlik,BCA OneKlik,Bank
+SeaBank Bayar Instan,SeaBank Bayar Instan,Bank
+Cicilan Kartu Kredit,CC Installment,Card
+Kartu Kredit/Debit,Credit/Debit Card,Card
+Cash On Delivery,Cash On Delivery,Cash On Delivery
+COD,Cash On Delivery,Cash On Delivery
+COD (Bayar di Tempat),Cash On Delivery,Cash On Delivery
+Saldo ShopeePay,ShopeePay,E-Wallet
+saldo shopeepay,ShopeePay,E-Wallet
+ShopeePay,ShopeePay,E-Wallet
+Pembayaran dibebaskan,Free (No Payment),Free
+Online Payment,Online Payment,Other
+online payment,Online Payment,Other
+OnlinePayment,Online Payment,Other
+SPay Later,SPayLater,PayLater
+SPayLater,SPayLater,PayLater
+Alfamart/Alfamidi/Dan+Dan,Alfamart/Alfamidi/Dan+Dan,Retail (Offline)
+Indomaret/i.Saku,Indomaret/i.Saku,Retail (Offline)
+Mitra Shopee,Mitra Shopee,Retail (Offline)

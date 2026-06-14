@@ -1,0 +1,20 @@
+pay_method,payment_category
+"BCA OneKlik",Bank
+"SeaBank Bayar Instan",Bank
+"CC Installment",Card
+"Credit/Debit Card",Card
+"Cash On Delivery","Cash On Delivery"
+"Cash On Delivery","Cash On Delivery"
+"Cash On Delivery","Cash On Delivery"
+ShopeePay,E-Wallet
+ShopeePay,E-Wallet
+ShopeePay,E-Wallet
+"Free (No Payment)",Free
+"Online Payment",Other
+"Online Payment",Other
+"Online Payment",Other
+SPayLater,PayLater
+SPayLater,PayLater
+Alfamart/Alfamidi/Dan+Dan,"Retail (Offline)"
+Indomaret/i.Saku,"Retail (Offline)"
+"Mitra Shopee","Retail (Offline)"
