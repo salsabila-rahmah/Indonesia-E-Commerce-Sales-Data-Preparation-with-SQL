@@ -35,25 +35,25 @@ CREATE TRIGGER trigger_insert_to_BACKUP_audit_log
 AFTER INSERT ON audit_log
 BEGIN
     INSERT INTO BACKUP_audit_log (
-    log_id,
-    logged_at,
-    order_id,
-    attribute,
-    reason,
-    solution,
-    source_table,
-    total_rows,
-    problematic_rows)
+        log_id,
+        logged_at,
+        order_id,
+        attribute,
+        reason,
+        solution,
+        source_table,
+        total_rows,
+        problematic_rows)
     VALUES (
-    NEW.log_id,
-    NEW.logged_at,
-    NEW.order_id,
-    NEW.attribute,
-    NEW.reason,
-    NEW.solution,
-    NEW.source_table,
-    NEW.total_rows,
-    NEW.problematic_rows);
+        NEW.log_id,
+        NEW.logged_at,
+        NEW.order_id,
+        NEW.attribute,
+        NEW.reason,
+        NEW.solution,
+        NEW.source_table,
+        NEW.total_rows,
+        NEW.problematic_rows);
 END;
 
 
